@@ -274,6 +274,9 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 .big {
   font-size: 1.5em;
 }
+.bigger {
+  font-size: 1.75em;
+}
 .big2x {
   font-size: 2.5rem !important;
 }
